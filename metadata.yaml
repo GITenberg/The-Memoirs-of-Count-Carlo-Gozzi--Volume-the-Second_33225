@@ -1,0 +1,63 @@
+_repo: The-Memoirs-of-Count-Carlo-Gozzi--Volume-the-Second_33225
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Sand, Maurice
+    aliases:
+    - Dudevant, Jean-Francois-Maurice-Arnauld
+    - Dudevant, Jean-François-Maurice-Arnauld
+    birthdate: 1823
+    deathdate: 1889
+    gutenberg_agent_id: '9425'
+    url: http://www.gutenberg.org/2009/agents/9425
+  - agent_name: Lalauze, Adolphe
+    alias: Lalauze, A. (Adolphe)
+    birthdate: 1838
+    deathdate: 1906
+    gutenberg_agent_id: '25444'
+    url: http://www.gutenberg.org/2009/agents/25444
+    wikipedia: http://fr.wikipedia.org/wiki/Adolphe_Lalauze
+  - agent_name: Manceau, Alexandre
+    aliases:
+    - Manceau, A. (Alexandre)
+    - Manceau, Alexandre Damien
+    birthdate: 1817
+    deathdate: 1865
+    gutenberg_agent_id: '39360'
+    url: http://www.gutenberg.org/2009/agents/39360
+  translator:
+    agent_name: Symonds, John Addington
+    alias: Symonds, J. A. (John Addington)
+    birthdate: 1840
+    deathdate: 1893
+    gutenberg_agent_id: '1504'
+    url: http://www.gutenberg.org/2009/agents/1504
+    wikipedia: http://en.wikipedia.org/wiki/John_Addington_Symonds
+covers:
+- cover_type: archival
+  image_path: 33225-h/images/ill_cover.jpg
+creator:
+  author:
+    agent_name: Gozzi, Carlo
+    birthdate: 1720
+    deathdate: 1806
+    gutenberg_agent_id: '8719'
+    url: http://www.gutenberg.org/2009/agents/8719
+    wikipedia: http://en.wikipedia.org/wiki/Carlo_Gozzi
+description: ''
+gutenberg_issued: '2010-07-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33225'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Longhi, Pietro, 1702-1785'
+- !lcsh 'Gozzi, Carlo, 1720-1806'
+- !lcc 'PQ'
+- !lcsh 'Authors, Italian -- Biography'
+- !lcsh 'Commedia dell''arte'
+title: The Memoirs of Count Carlo Gozzi; Volume the Second
+url: http://www.gutenberg.org/ebooks/33225
